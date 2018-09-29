@@ -1,0 +1,492 @@
+{
+	"status": "success",
+	"error": {
+	},
+	"data": [
+		"Zaterdag 29 september 2018",
+		{
+			"id": "665759",
+			"time": "09:15",
+			"description": "zaterdag 29 september 2018",
+			"location": "De Spil, BOVENSMILDE",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		},
+		{
+			"id": "665764",
+			"time": "09:15",
+			"description": "zaterdag 29 september 2018",
+			"location": "De Spil, BOVENSMILDE",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 3",
+			"home": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			},
+			"away": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			}
+		},
+		{
+			"id": "665769",
+			"time": "09:45",
+			"description": "zaterdag 29 september 2018",
+			"location": "De Spil, BOVENSMILDE",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			}
+		},
+		{
+			"id": "665779",
+			"time": "09:45",
+			"description": "zaterdag 29 september 2018",
+			"location": "De Spil, BOVENSMILDE",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 3",
+			"home": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665754",
+			"time": "10:00",
+			"description": "zaterdag 29 september 2018",
+			"location": "De Spil, BOVENSMILDE",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665774",
+			"time": "10:00",
+			"description": "zaterdag 29 september 2018",
+			"location": "De Spil, BOVENSMILDE",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 3",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		},
+		"Zaterdag 6 oktober 2018",
+		{
+			"id": "665777",
+			"time": "10:30",
+			"description": "zaterdag 6 oktober 2018",
+			"location": "Steegdenhal, APPELSCHA",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			},
+			"away": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			}
+		},
+		{
+			"id": "665772",
+			"time": "10:30",
+			"description": "zaterdag 6 oktober 2018",
+			"location": "Steegdenhal, APPELSCHA",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665757",
+			"time": "10:45",
+			"description": "zaterdag 6 oktober 2018",
+			"location": "Steegdenhal, APPELSCHA",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			}
+		},
+		{
+			"id": "665767",
+			"time": "10:45",
+			"description": "zaterdag 6 oktober 2018",
+			"location": "Steegdenhal, APPELSCHA",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		},
+		{
+			"id": "665762",
+			"time": "11:15",
+			"description": "zaterdag 6 oktober 2018",
+			"location": "Steegdenhal, APPELSCHA",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			},
+			"away": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			}
+		},
+		{
+			"id": "665782",
+			"time": "11:15",
+			"description": "zaterdag 6 oktober 2018",
+			"location": "Steegdenhal, APPELSCHA",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			},
+			"away": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			}
+		},
+		"Zaterdag 10 november 2018",
+		{
+			"id": "665760",
+			"time": "09:00",
+			"description": "zaterdag 10 november 2018",
+			"location": "Sporthal Olympus, ASSEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		},
+		{
+			"id": "665765",
+			"time": "09:00",
+			"description": "zaterdag 10 november 2018",
+			"location": "Sporthal Olympus, ASSEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			},
+			"away": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			}
+		},
+		{
+			"id": "665770",
+			"time": "09:15",
+			"description": "zaterdag 10 november 2018",
+			"location": "Sporthal Olympus, ASSEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			}
+		},
+		{
+			"id": "665780",
+			"time": "09:15",
+			"description": "zaterdag 10 november 2018",
+			"location": "Sporthal Olympus, ASSEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665755",
+			"time": "10:00",
+			"description": "zaterdag 10 november 2018",
+			"location": "Sporthal Olympus, ASSEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665775",
+			"time": "10:00",
+			"description": "zaterdag 10 november 2018",
+			"location": "Sporthal Olympus, ASSEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		},
+		"Zaterdag 17 november 2018",
+		{
+			"id": "665778",
+			"time": "09:15",
+			"description": "zaterdag 17 november 2018",
+			"location": "Sporthal Dwingeloo, DWINGELOO",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			},
+			"away": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			}
+		},
+		{
+			"id": "665773",
+			"time": "09:15",
+			"description": "zaterdag 17 november 2018",
+			"location": "Sporthal Dwingeloo, DWINGELOO",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665758",
+			"time": "09:45",
+			"description": "zaterdag 17 november 2018",
+			"location": "Sporthal Dwingeloo, DWINGELOO",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			}
+		},
+		{
+			"id": "665768",
+			"time": "09:45",
+			"description": "zaterdag 17 november 2018",
+			"location": "Sporthal Dwingeloo, DWINGELOO",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		},
+		{
+			"id": "665763",
+			"time": "10:15",
+			"description": "zaterdag 17 november 2018",
+			"location": "Sporthal Dwingeloo, DWINGELOO",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			},
+			"away": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			}
+		},
+		{
+			"id": "665783",
+			"time": "10:15",
+			"description": "zaterdag 17 november 2018",
+			"location": "Sporthal Dwingeloo, DWINGELOO",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			},
+			"away": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			}
+		},
+		"Zaterdag 8 december 2018",
+		{
+			"id": "665761",
+			"time": "09:00",
+			"description": "zaterdag 8 december 2018",
+			"location": "Drenthehal, BEILEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		},
+		{
+			"id": "665766",
+			"time": "09:00",
+			"description": "zaterdag 8 december 2018",
+			"location": "Drenthehal, BEILEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			},
+			"away": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			}
+		},
+		{
+			"id": "665771",
+			"time": "09:15",
+			"description": "zaterdag 8 december 2018",
+			"location": "Drenthehal, BEILEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			}
+		},
+		{
+			"id": "665781",
+			"time": "09:15",
+			"description": "zaterdag 8 december 2018",
+			"location": "Drenthehal, BEILEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665756",
+			"time": "09:45",
+			"description": "zaterdag 8 december 2018",
+			"location": "Drenthehal, BEILEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 1",
+			"home": {
+				"id": "1246N2 1",
+				"name": "Wesseling DOK N2 1"
+			},
+			"away": {
+				"id": "1228N2 1",
+				"name": "Smash N2 1"
+			}
+		},
+		{
+			"id": "665776",
+			"time": "09:45",
+			"description": "zaterdag 8 december 2018",
+			"location": "Drenthehal, BEILEN",
+			"poule": "CMV Cluster 3 Niveau 2 poule A Eerste helft",
+			"field": "Veld 2",
+			"home": {
+				"id": "1230N2 1",
+				"name": "Sudosa-Desto N2 1"
+			},
+			"away": {
+				"id": "1230N2 2",
+				"name": "Sudosa-Desto N2 2"
+			}
+		}
+	]
+}
