@@ -9,14 +9,14 @@ import java.util.logging.Logger;
 import org.apache.commons.io.FileUtils;
 import org.apache.velocity.VelocityContext;
 
-import eu.splender.nevobo.Match;
-import utils.Ftp;
-import utils.VelocityUtil;
+import eu.splender.sports.model.Match;
+import eu.splender.utils.Ftp;
+import eu.splender.utils.VelocityUtil;
 
 public class Calendar {
     private final static Logger LOGGER = Logger.getLogger(Calendar.class.getName());
 
-    public void createICalFileForTeam(List<Match> matches, File icalFile, String teamname) {
+    public static void createICalFileForTeam(List<Match> matches, File icalFile, String teamname) {
         LOGGER.info("Creating calendar " + icalFile.getName());
         VelocityContext vc = new VelocityContext();
         vc.put("teamname", teamname);
@@ -31,7 +31,7 @@ public class Calendar {
         }
     }
 
-    public void uploadCalendarFile(File icalFile, Map<String, String> credentials) {
+    public static void uploadCalendarFile(File icalFile, Map<String, String> credentials) {
         if (!credentials.get("ftpHost").isEmpty() && icalFile.exists()) {
             try {
                 LOGGER.info("ftp upload van '" + icalFile.getAbsolutePath() + "' gestart");

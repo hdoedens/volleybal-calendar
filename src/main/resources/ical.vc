@@ -23,11 +23,11 @@ END:STANDARD
 END:VTIMEZONE
 #foreach ($match in $matches)
 BEGIN:VEVENT
-UID:$match.getExternalMatchId()
+UID:$match.getMatchId()
 SUMMARY:$match.getMatchDescription()
 DTSTART;TZID="Europe/Amsterdam":${match.getDTStart()}
 DTEND;TZID="Europe/Amsterdam":${match.getDTEnd()}
-LOCATION: $match.getFacilityStreetName() $match.getFacilityHouseNumber() $match.getFacilityPostalCode() $match.getFacilityCity()
+LOCATION: $match.getFacilityName() $match.getFacilityStreetName() $match.getFacilityHouseNumber() $match.getFacilityPostalCode() $match.getFacilityCity()
 DESCRIPTION: [$match.getRound()] $match.getMatchDescription() wedstrijdnr $match.getPublicMatchId()($match.getExternalMatchId())
 STATUS:CONFIRMED
 END:VEVENT

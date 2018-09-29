@@ -1,4 +1,4 @@
-package utils;
+package eu.splender.utils;
 
 import java.io.File;
 import java.io.FileInputStream;
